@@ -1,0 +1,57 @@
+h1,h3{
+	  font-family:Schadow BT;
+  }
+  
+  h4{
+	  font-family:Schadow BT;
+  }
+  
+  hr{
+	  border-color:blue;
+  }
+  
+  
+  progress{
+	  width:350px;
+	  height:30px;
+	  color:blue;
+	  
+  }
+  
+  input{
+	  font-family:Schadow BT;
+	  font-size:20px;
+	  
+	  
+	  
+  }
+  
+  .b1{
+	  background:white;
+	  border:1px solid grey;
+	  border-radius:5px;
+	  cursor:pointer;
+	  padding:4px 15px;
+  }
+  
+  .b1:hover{
+	  background:skyblue;
+	  color:white;
+	  
+  }
+  
+  .l1{
+  font-family:Schadow BT;
+	  
+	  font-size:22px;
+	  
+  }
+  
+  .section{
+	  margin-top:15px;
+	  margin-left:15px;
+  }
+  
+  .pbar{
+	  width:60%;
+  }
